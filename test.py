@@ -1,3 +1,5 @@
+#Please open the code in Python IDLE or Windows Powershell for proper functioning
+
 import string
 import getpass
 
